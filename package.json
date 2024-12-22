@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://sourav-b136.github.io/Aytor-Home-page",
+  "homepage": "https://sourav136.github.io/Aytor-Home-page",
 
   "scripts": {
     "dev": "vite",
